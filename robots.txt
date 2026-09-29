@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: {{CANONICAL_BASE}}/sitemap.xml
+Sitemap: https://lalitbansal206-lgtm.github.io/FactScienceUnseen/sitemap.xml
